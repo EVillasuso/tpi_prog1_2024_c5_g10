@@ -34,23 +34,23 @@ if valor_aleatorio_2 == 0:
     if respuesta == juegos[valor_aleatorio]["fecha_publicacion"]:
         print("Acertaste")
     else:
-        print("Incorrecto!")
+        print("Fallo")
 elif valor_aleatorio_2 == 1:
     respuesta = input("¿Cuál es el publisher de este juego? ")
     if respuesta == juegos[valor_aleatorio]["publisher"]:
         print("Acertaste!")
     else:
-        print("Incorrecto!")
+        print("Fallo!")
 elif valor_aleatorio_2 == 2:
     respuesta = input("¿Cuál es el estudio de este juego? ")
     if respuesta == juegos[valor_aleatorio]["estudio"]:
         print("Acertaste!")
     else:
-        print("Incorrecto!")
+        print("Fallo!")
 elif valor_aleatorio_2 == 3:
     respuesta = input("¿Cuál es el engine de este juego? ")
     if respuesta == juegos[valor_aleatorio]["engine"]:
         print("Acertaste!")
     else:
-        print("Incorrecto!")
+        print("Fallo!")
 
