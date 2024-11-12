@@ -32,25 +32,25 @@ valor_aleatorio_2 = random.randint(0, 3) #obtener un valor entre 0 y 3
 if valor_aleatorio_2 == 0:
     respuesta = input("¿Cuál es la fecha de publicación de este juego? ")
     if respuesta == juegos[valor_aleatorio]["fecha_publicacion"]:
-        print("Correcto!")
+        print("Acertaste")
     else:
         print("Incorrecto!")
 elif valor_aleatorio_2 == 1:
     respuesta = input("¿Cuál es el publisher de este juego? ")
     if respuesta == juegos[valor_aleatorio]["publisher"]:
-        print("Correcto!")
+        print("Acertaste!")
     else:
         print("Incorrecto!")
 elif valor_aleatorio_2 == 2:
     respuesta = input("¿Cuál es el estudio de este juego? ")
     if respuesta == juegos[valor_aleatorio]["estudio"]:
-        print("Correcto!")
+        print("Acertaste!")
     else:
         print("Incorrecto!")
 elif valor_aleatorio_2 == 3:
     respuesta = input("¿Cuál es el engine de este juego? ")
     if respuesta == juegos[valor_aleatorio]["engine"]:
-        print("Correcto!")
+        print("Acertaste!")
     else:
         print("Incorrecto!")
 
