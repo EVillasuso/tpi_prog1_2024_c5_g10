@@ -1,0 +1,75 @@
+The Legend of Zelda: Tears of the Kingdom  
+12 de mayo de 2023  
+Nintendo  
+Nintendo EPD  
+Proprietary Engine  
+God of War Ragnarök  
+9 de noviembre de 2022  
+Sony Interactive Entertainment  
+Santa Monica Studio  
+Proprietary Engine  
+Elden Ring  
+25 de febrero de 2022  
+Bandai Namco Entertainment  
+FromSoftware  
+Proprietary Engine  
+Hogwarts Legacy  
+10 de febrero de 2023  
+Warner Bros. Games  
+Portkey Games  
+Unreal Engine 4  
+Resident Evil 4 Remake  
+24 de marzo de 2023  
+Capcom  
+Capcom R&D Division 1  
+RE Engine  
+Final Fantasy XVI  
+22 de junio de 2023  
+Square Enix  
+Creative Business Unit III  
+Proprietary Engine  
+Street Fighter 6  
+2 de junio de 2023  
+Capcom  
+Capcom  
+RE Engine  
+Diablo IV  
+6 de junio de 2023  
+Blizzard Entertainment  
+Blizzard Entertainment  
+Proprietary Engine  
+Cyberpunk 2077  
+10 de diciembre de 2020  
+CD Projekt  
+CD Projekt Red  
+REDengine 4  
+Assassin's Creed Mirage  
+5 de octubre de 2023  
+Ubisoft  
+Ubisoft Bordeaux  
+Anvil Engine  
+Baldur's Gate III  
+3 de agosto de 2023  
+Larian Studios  
+Larian Studios  
+Divinity Engine 4.0  
+Horizon Forbidden West  
+18 de febrero de 2022  
+Sony Interactive Entertainment  
+Guerrilla Games  
+Decima Engine  
+Starfield  
+6 de septiembre de 2023  
+Bethesda Softworks  
+Bethesda Game Studios  
+Creation Engine 2  
+FIFA 23  
+30 de septiembre de 2022  
+Electronic Arts  
+EA Vancouver / EA Romania  
+Frostbite Engine  
+Call of Duty: Modern Warfare II  
+28 de octubre de 2022  
+Activision  
+Infinity Ward  
+IW Engine
